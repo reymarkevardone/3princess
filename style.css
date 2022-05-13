@@ -60,3 +60,10 @@ body{
   width: 90%;
   position: center;
 }
+.friend{
+  background-color: red;
+}
+a{
+  background-color: red;
+  font-size: 150px;
+}
